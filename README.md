@@ -7,4 +7,4 @@ My biggest projects are:
 [ASCIIsavers](https://www.github.com/coderspark/asciisavers) - A collection of CLI screensavers
 [TUIlib](https://www.github.com/coderspark/tuilib) - A library for tuis in rust
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderspark&show_icons=true&locale=en" alt="stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderspark&show_icons=true&locale=en" alt="langs" /></p>
